@@ -1,0 +1,11 @@
+body{
+  background: rgb(252, 248, 248);
+}
+.pic_bg {
+    min-height: 60;
+    /* background:rgb(241, 2, 2); */
+    background-size: cover;
+    background-position:center center;
+  
+    
+  }
